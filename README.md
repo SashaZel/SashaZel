@@ -2,6 +2,7 @@
 ### Меня зовут Александр Зеленков
 
 Я занаимаюсь фронтэнд разработкой на React.
+
 Мой последний проект - это приложение для создания Telegram-ботов [malo_bot](https://sashazel.github.io/malo_bot/).
 
 ##### Контакты/Contacts
@@ -16,6 +17,7 @@ https://www.zelenkov.space/
 ### I'm Alexander Zelenkov
 
 I'm a frontend dev on React.
+
 Check out my last project - frontend-only Telegram-bot creation app [malo_bot](https://sashazel.github.io/malo_bot/).
 
 <!--
