@@ -13,6 +13,8 @@ https://t.me/sasha_zelenkov
 
 https://www.zelenkov.space/
 
+https://www.codewars.com/users/Zelenkov
+
 ### Hi,
 ### I'm Alexander Zelenkov
 
